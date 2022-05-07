@@ -397,6 +397,10 @@ a.footnote-ref {
     margin: 0.75em 0em 0.5em 0em;
 }
 
+.post-content p {
+    text-align: justify;
+}
+
 .post-footer {
     font-size: 0.95rem;
     color: $gray-light;
