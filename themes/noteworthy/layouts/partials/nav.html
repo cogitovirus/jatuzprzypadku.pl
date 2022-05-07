@@ -2,10 +2,18 @@
 <nav>
   {{ partial "header.html" . }}
   <div class="nav-menu">
-  {{ range .Site.Menus.main }}
+    <a class="color-link nav-link" href="{{ "/" | relLangURL }}">Start</a>
+    {{ range .Site.Menus.main }}
     <a class="color-link nav-link" href="{{ .URL }}">{{ .Name }}</a>
-  {{ end }}
-  <!-- <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a> -->
-</div>
-{{ partial "footer.html" . }}
+    {{ end }}
+    <p class="nav-link">Kategorie</p>
+
+    <!-- <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a> -->
+  </div>
+  <div class="nav-tags">
+    {{ range .Site.Taxonomies.tags.ByCount }}
+    <a class="color-link" href="{{ .Page.Permalink }}">#{{ .Page.Title }} ({{ .Count }}) </a>
+    {{ end }}
+  </div>
+  {{ partial "footer.html" . }}
 </nav>

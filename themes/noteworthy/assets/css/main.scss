@@ -280,6 +280,17 @@ nav {
     margin-bottom: 0.5em;
 }
 
+.nav-tags {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.nav-tag {
+    margin-bottom: 0.5em;
+}
+
 .description {
     font-style: italic;
     color: $gray-medium;

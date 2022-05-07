@@ -7,8 +7,6 @@ title = 'Ja tu z przypadku'
 theme = "noteworthy"
 enableRobotsTXT = true
 
-
-
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
 
@@ -24,12 +22,6 @@ disqusShortname = ""
     name = "O mnie"
     url = "/about/"
     weight = 1 # used to sort menu items
-
-[[menu.main]]
-    identifier = "tags"
-    name = "Kategorie"
-    url = "/tags/"
-    weight = 2
 
 [taxonomies]
     tag = "tags"

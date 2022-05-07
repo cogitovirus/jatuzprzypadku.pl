@@ -27,6 +27,12 @@
         align-items: flex-start;
     }
 
+    .nav-tags {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
     .nav-link {
         margin-bottom: 0.5em;
     }
