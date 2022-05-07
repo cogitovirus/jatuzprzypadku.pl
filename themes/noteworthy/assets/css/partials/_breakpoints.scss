@@ -10,21 +10,32 @@
         position: fixed;
         overflow: auto;
         height: 100%;
-        top: 0;
+        top: 50px;
         left: 36px;
         width: 240px;
         padding: 0px;
     }
 
     .site-title {
-        margin: 3em 0em 1em 0em;
+        margin: 1em 0em 1em 0em;
         text-align: left;
+    }
+
+    .nav-wrapper {
+        position: fixed;
+        background-color: white;
+        padding: 1.5em 1.5em 0 0;
+        margin-left: 310px;
+        max-width: 720px;
+        width: 100%;
     }
 
     .nav-menu {
         display: flex;
-        flex-direction: column;
-        align-items: flex-start;
+        flex-direction: row;
+        align-items: center;
+        margin-top: 0em;
+
     }
 
     .nav-tags {
@@ -55,9 +66,9 @@
     }
 
     .content-container {
-        max-width: 680px;
+        max-width: 720px;
         margin-left: 310px;
-        padding: 0 1.5em 0 0;
+        padding: 1.5em 1.5em 0 0;
         height: 100%;
         display: flex;
         flex-direction: column;

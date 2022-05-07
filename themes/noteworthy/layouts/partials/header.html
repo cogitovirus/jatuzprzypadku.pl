@@ -1,5 +1,11 @@
 <header>
-    <div class="site-title">
-        <a href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
-    </div>  
+<div class="nav-wrapper">
+    <div class="nav-menu">
+        <a class="color-link nav-link" href="{{ "/" | relLangURL }}">Start</a>
+        {{ range .Site.Menus.main }}
+        <a class="color-link nav-link" href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}    
+        <!-- <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a> -->
+      </div>
+</div>
 </header>

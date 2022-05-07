@@ -1,16 +1,10 @@
 <!-- Sidebar navigation -->
 <nav>
-  {{ partial "header.html" . }}
-  <div class="nav-menu">
-    <a class="color-link nav-link" href="{{ "/" | relLangURL }}">Start</a>
-    {{ range .Site.Menus.main }}
-    <a class="color-link nav-link" href="{{ .URL }}">{{ .Name }}</a>
-    {{ end }}
-    <p class="nav-link">Kategorie</p>
-
-    <!-- <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a> -->
+  <div class="site-title">
+    <a href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
   </div>
-  <div class="nav-tags">
+  <p class="nav-link nav-flex">Kategorie</p>
+  <div class="nav-flex">
     {{ range .Site.Taxonomies.tags.ByCount }}
     <a class="color-link" href="{{ .Page.Permalink }}">#{{ .Page.Title }} ({{ .Count }}) </a>
     {{ end }}

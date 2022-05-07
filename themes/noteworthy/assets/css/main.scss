@@ -252,12 +252,12 @@ table {
 
 // TOP NAV
 nav {
-    padding: 0.25em 1.5em 1em 1.5em;
+    padding: 3.5em 1.5em 1em 1.5em;
     max-width: 100%;
 }
 
 .site-title {
-    margin: 1.5em 0em 1em 0em;
+    margin: 0.5em 0em 1em 0em;
     text-align: center;
     line-height: 1.7em;
 
@@ -269,26 +269,28 @@ nav {
     }
 }
 
+.nav-wrapper {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+
 .nav-menu {
     display: flex;
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 1.5em;
 }
 
 .nav-link {
     margin-bottom: 0.5em;
 }
 
-.nav-tags {
+.nav-flex {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     flex-wrap: wrap;
-}
-
-.nav-tag {
-    margin-bottom: 0.5em;
 }
 
 .description {
