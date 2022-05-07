@@ -1,0 +1,26 @@
+INFO 2022/05/07 13:38:36 syncing static files to /
+ERROR 2022/05/07 13:38:36 Failed to read Git log: fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+LOG:   2022/05/07 13:38:36 
+Template Metrics:
+
+LOG:   2022/05/07 13:38:36      cumulative       average       maximum      cache  percent  cached  total  
+       duration      duration      duration  potential   cached   count  count  template
+     ----------      --------      --------  ---------  -------  ------  -----  --------
+   531.278996ms   88.546499ms  110.286021ms         70        0       0      6  partials/head.html
+   242.464777ms  121.232388ms  123.202508ms          0        0       0      2  _default/single.html
+    231.20275ms  115.601375ms  116.287696ms          0        0       0      2  _default/terms.html
+   118.062339ms  118.062339ms  118.062339ms          0        0       0      1  index.html
+    56.136476ms    9.356079ms   11.410536ms        100        0       0      6  partials/nav.html
+    54.580357ms    9.096726ms    11.28827ms        100        0       0      6  partials/footer.html
+      1.45023ms     120.852µs     400.832µs        100        0       0     12  partials/social.html
+     1.179368ms     235.873µs     338.457µs          0        0       0      5  _internal/_default/rss.xml
+      969.987µs     161.664µs     283.734µs        100        0       0      6  partials/footer-mobile.html
+      661.621µs     661.621µs     661.621µs          0        0       0      1  404.html
+      639.478µs     106.579µs     488.239µs        100        0       0      6  partials/math.html
+      177.293µs     177.293µs     177.293µs          0        0       0      1  _internal/_default/sitemap.xml
+       133.98µs       22.33µs      48.681µs        100        0       0      6  partials/header.html
+      107.004µs      53.502µs     103.849µs          0        0       0      2  _default/section.html
+         61.7µs        61.7µs        61.7µs          0        0       0      1  _internal/alias.html
+
+LOG:   2022/05/07 13:38:39 Built in 2499 ms

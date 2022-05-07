@@ -1,0 +1,23 @@
+[page]
+other = "Strona"
+
+[of]
+other = "z"
+
+[newer]
+other = "Nowsze"
+
+[older]
+other = "Starsze"
+
+[tagged]
+other = "Tagi"
+
+[read_more]
+other = "Czytaj więcej..."
+
+[noteworthy_theme]
+other = "Noteworthy theme"
+
+[built_with_hugo]
+other = "Built with Hugo"

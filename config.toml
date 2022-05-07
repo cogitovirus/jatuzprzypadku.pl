@@ -1,0 +1,4 @@
+baseURL = 'https://jatuzprzypadku.pl/'
+languageCode = 'pl'
+title = 'Ja tu z przypadku'
+theme = "noteworthy"
