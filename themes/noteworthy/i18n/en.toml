@@ -15,9 +15,3 @@ other = "Tagged"
 
 [read_more]
 other = "Read more..."
-
-[noteworthy_theme]
-other = "Noteworthy theme"
-
-[built_with_hugo]
-other = "Built with Hugo"
