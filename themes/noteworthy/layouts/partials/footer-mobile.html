@@ -2,9 +2,7 @@
 	{{ partial "social.html" . }}
 
 	<div class="footer-mobile-links">
-        <p><a href="https://github.com/kimcc/hugo-theme-noteworthy" target="_blank" rel="noopener">{{ i18n "noteworthy_theme" }}</a></p>
-		<span class="divider-bar">|</span>
-        <p><a href="https://gohugo.io" target="_blank" rel="noopener">{{ i18n "built_with_hugo" }}</a></p>
+		<p class="copyrights">Stworzone z ❤️ przez <a href="https://github.com/cogitovirus" target="_blank" rel="noopener">cogitovirus</a> · © 2022</p>
 	</div>
 
 	{{ $script := resources.Get "js/main.js" | minify | fingerprint -}}

@@ -16,7 +16,8 @@
             </h2>
             <div>
                 <p>{{ .Summary }}</p>
-                {{ if (and (.Site.Params.showReadMore) (.Truncated)) }}
+                <!-- {{/* if (and (.Site.Params.showReadMore) (.Truncated)) */}} -->
+                {{if .Site.Params.showReadMore}}
                 <p><a href="{{ .RelPermalink }}">{{ i18n "read_more" }}</a></p>
                 {{ end }}
             </div>

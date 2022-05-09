@@ -7,6 +7,7 @@ tags: [
     "psychologia",
     "introwertyk",
 ]
+summary: "To jest niestandardowe podsumowanie."
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquet euismod purus vel feugiat. Mauris vel gravida dui. Nam eu lobortis elit, non mollis lacus. Proin ultrices suscipit laoreet. Mauris vitae dictum mauris, feugiat gravida quam. Donec dapibus dolor nec lacus mattis, in cursus dui sodales. Proin ut varius massa.
