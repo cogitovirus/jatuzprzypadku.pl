@@ -270,21 +270,21 @@ nav {
 }
 
 .nav-wrapper {
-    position: fixed;
+    position: sticky;
     background-color: white;
     width: 100%;
+    z-index: 1;
 }
 
 .nav-menu {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     flex-wrap: wrap;
-    margin-top: 1.5em;
+    justify-content: center;
 }
 
 .nav-link {
-    margin-bottom: 0.5em;
+    margin-top: 0.5em;
 }
 
 .nav-flex {

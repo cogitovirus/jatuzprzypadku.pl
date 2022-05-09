@@ -24,7 +24,6 @@
     .nav-wrapper {
         position: fixed;
         background-color: white;
-        padding: 1.5em 1.5em 0 0;
         margin-left: 310px;
         max-width: 720px;
         width: 100%;
@@ -35,6 +34,7 @@
         flex-direction: row;
         align-items: center;
         margin-top: 0em;
+        justify-content: left;
 
     }
 
