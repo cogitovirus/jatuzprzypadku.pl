@@ -8,7 +8,7 @@
     // TOP NAV
     nav {
         position: fixed;
-        overflow: auto;
+        overflow: visible;
         height: 100%;
         top: 50px;
         left: 36px;
@@ -46,6 +46,8 @@
 
     .nav-link {
         margin-bottom: 0.5em;
+        margin-left: 0em;
+        margin-right: 1.5em;
     }
 
     .description {
