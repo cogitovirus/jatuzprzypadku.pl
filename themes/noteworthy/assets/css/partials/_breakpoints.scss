@@ -69,7 +69,7 @@
         max-width: 720px;
         margin-left: 310px;
         padding: 1.5em 1.5em 0 0;
-        height: 100%;
+        height: 96%;
         display: flex;
         flex-direction: column;
 
@@ -105,6 +105,24 @@
         padding: 0em;
         margin: 0em;
         overflow: hidden;
+    }
+
+    .copyrights-mobile {
+        visibility: hidden;
+        height: 0;
+        overflow: hidden;
+    }
+
+    .copyrights {
+        visibility: visible;
+        overflow: visible;
+        position: relative;
+        height: 4%;
+        text-align: center;
+        font-size: 0.8rem;
+        a {
+            font-size: 0.8rem;
+        }
     }
 
     .social-icons {

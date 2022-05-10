@@ -47,6 +47,7 @@ body {
     font-size: 1.1rem;
 }
 
+
 // TEXT
 article p {
     a {
@@ -464,6 +465,21 @@ a.footnote-ref {
 }
 
 // MAIN FOOTER
+.copyrights-mobile {
+    display: flex;
+    justify-content: center;
+    font-size: 0.8rem;
+    a {
+        font-size: 0.8rem;
+    }
+}
+
+.copyrights {
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}
+
 .footer {
     visibility: hidden;
     height: 0;
@@ -474,11 +490,6 @@ a.footnote-ref {
     max-width: 100%;
     padding: 0em 1.5em 0.75em 1.5em;
     overflow: hidden;
-
-    .footer-mobile-links {
-        display: flex;
-        justify-content: center;
-    }
 
     .divider-bar {
         color: $gray-light;
@@ -517,14 +528,6 @@ footer {
 
     a:hover {
         color: $gray-medium;
-    }
-}
-
-.copyrights {
-    font-size: 0.8rem;
-
-    a {
-        font-size: 0.8rem;
     }
 }
 
