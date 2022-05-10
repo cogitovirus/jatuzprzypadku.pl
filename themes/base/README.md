@@ -126,8 +126,3 @@ If you'd like to enable a Ko-fi button on your posts, enable it in the config fi
 enableKofi = true
 kofi = ""
 ```
-
-
-## License
-
-Released under the [MIT License](https://github.com/kimcc/hugo-theme-noteworthy/blob/master/LICENSE.md).
