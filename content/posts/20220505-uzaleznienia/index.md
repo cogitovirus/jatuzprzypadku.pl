@@ -1,6 +1,6 @@
 ---
 author: "Kamila"
-title: "Czy dziecko można zamodelować?"
+title: "Dlaczego ludzie popadają w uzależnienia"
 date: 2022-03-20
 draft: false
 tags: [

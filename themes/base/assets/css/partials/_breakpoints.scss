@@ -5,6 +5,7 @@
 }
 
 @include media(900px) {
+
     // TOP NAV
     nav {
         position: fixed;
@@ -60,6 +61,14 @@
 
     .article-content {
         margin-top: 1.4em;
+    }
+
+    .article-content-flex {
+        flex-direction: row;
+    }
+
+    .article-summary {
+        margin-left: 1em;
     }
 
     // CONTENT
@@ -122,6 +131,7 @@
         height: 4%;
         text-align: center;
         font-size: 0.8rem;
+
         a {
             font-size: 0.8rem;
         }

@@ -15,13 +15,13 @@
             </a>
         </h2>
         <div class="article-content-flex">
-            <div>
-                {{ with .Resources.GetMatch "promo.jpg" }}
-                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+            <div class="article-promo">
+                {{ with .Resources.GetMatch "promo.jpeg" }}
+                <img src="{{ .RelPermalink }}">
                 {{ end }}
 
             </div>
-            <div>
+            <div class="article-summary">
                 <p>{{ .Summary }}</p>
                 <!-- {{/* if (and (.Site.Params.showReadMore) (.Truncated)) */}} -->
                 {{if .Site.Params.showReadMore}}
@@ -36,7 +36,7 @@
             <!-- Display tags -->
             {{if .Params.tags}}
             {{ range .Params.tags }}
-            <a class="tag" href="{{ " /tags/" | relLangURL }}{{ . | urlize }}">#{{.}}</a>
+            <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">#{{.}}</a>
             {{ end }}
             {{ end }}
         </div>

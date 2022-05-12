@@ -1,6 +1,6 @@
 ---
 author: "Kamila"
-title: "Czy dziecko można zamodelować?"
+title: "Jak sobie poradzić z odrzuceniem?"
 date: 2022-03-10
 draft: false
 tags: [
