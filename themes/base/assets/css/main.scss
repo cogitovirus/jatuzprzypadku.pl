@@ -1,14 +1,14 @@
 /* VARIABLES ========================================================================== */
 
 // COLORS
-$teal: #63BDA2;
+$teal: #A0BCC2;
 $teal-darker: #359377;
 $gray-background: #F7F7F7;
 $gray-table-border: #EEEEEE;
 $gray-lightest: #D2D2D2;
 $gray-light: #ABABAB;
 $gray-medium: #898989;
-$gray-dark: #5F5F5F;
+$gray-dark: #333333;
 $highlight: #FFEC5C;
 
 // FONTS
@@ -175,6 +175,10 @@ time {
     color: $gray-light;
 }
 
+.reading-time {
+    color: $gray-light;
+}
+
 hr {
     border: 0;
     height: 0;
@@ -252,19 +256,11 @@ table {
 }
 
 // TOP NAV
-nav {    
+nav {
     .nav-content {
         padding: 3.5em 1.5em 1.5em 1.5em;
         max-width: 100%;
         overflow: visible;
-    }
-    .nav-background {
-        background-image:url('../background-test.jpg');
-
-        background-size: cover;
-        overflow: visible;
-
-
     }
 }
 

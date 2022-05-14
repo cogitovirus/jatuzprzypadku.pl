@@ -4,6 +4,7 @@
     {{ if .Date }}
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{ end }}
+    <p class="reading-time">Czas lektury: {{ .ReadingTime }} min.</p>
     <div class="post-content">
         <p>
         {{ .Content }}
