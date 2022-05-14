@@ -1,16 +1,21 @@
 <!-- Sidebar navigation -->
 <nav>
-  <div class="site-logo">
-    <img src="{{ "2-Dice-Icon.svg" | relURL }}"/>
+  <div class="nav-background">
+
   </div>
-  <div class="site-title">
-    <a href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+  <div class="nav-content">
+    <div class="site-logo">
+      <img src="{{ "2-Dice-Icon.svg" | relURL }}" />
+    </div>
+    <div class="site-title">
+      <a href="{{ " /" | relLangURL }}">{{ .Site.Title }}</a>
+    </div>
+    <p class="nav-flex">Kategorie</p>
+    <div class="nav-flex">
+      {{ range .Site.Taxonomies.tags.ByCount }}
+      <a class="color-link" href="{{ .Page.Permalink }}">#{{ .Page.Title }} ({{ .Count }}) </a>
+      {{ end }}
+    </div>
+    {{ partial "footer.html" . }}
   </div>
-  <p class="nav-flex">Kategorie</p>
-  <div class="nav-flex">
-    {{ range .Site.Taxonomies.tags.ByCount }}
-    <a class="color-link" href="{{ .Page.Permalink }}">#{{ .Page.Title }} ({{ .Count }}) </a>
-    {{ end }}
-  </div>
-  {{ partial "footer.html" . }}
 </nav>

@@ -8,13 +8,29 @@
 
     // TOP NAV
     nav {
-        position: fixed;
-        overflow: visible;
+        overflow: hidden;
         height: 100%;
-        top: 50px;
-        left: 36px;
-        width: 240px;
-        padding: 0px;
+        position: fixed;
+        border-right: 1px solid black;
+
+        .nav-background {
+            background-image:url('../background-test.jpg');
+            background-size: cover;
+            height: 100%;
+            width: 300px;
+            filter: blur(3px);
+            margin: -15px;
+        }
+
+        .nav-content {
+            position: fixed;
+            overflow: visible;
+            height: 100%;
+            top: 50px;
+            left: 36px;
+            width: 240px;
+            padding: 0px;
+        }
     }
 
     .site-title {
@@ -22,7 +38,7 @@
         text-align: left;
     }
 
-    .nav-wrapper {
+    .header-wrapper {
         position: fixed;
         background-color: white;
         margin-left: 310px;
@@ -30,7 +46,7 @@
         width: 100%;
     }
 
-    .nav-menu {
+    .header-menu {
         display: flex;
         flex-direction: row;
         align-items: center;

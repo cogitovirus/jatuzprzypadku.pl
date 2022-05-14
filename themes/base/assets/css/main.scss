@@ -252,11 +252,23 @@ table {
 }
 
 // TOP NAV
-nav {
-    padding: 3.5em 1.5em 1.5em 1.5em;
-    max-width: 100%;
-    overflow: visible;
+nav {    
+    .nav-content {
+        padding: 3.5em 1.5em 1.5em 1.5em;
+        max-width: 100%;
+        overflow: visible;
+    }
+    .nav-background {
+        background-image:url('../background-test.jpg');
+
+        background-size: cover;
+        overflow: visible;
+
+
+    }
 }
+
+
 
 .site-title {
     margin: 0.5em 0em 1em 0em;
@@ -283,14 +295,14 @@ nav {
 
 }
 
-.nav-wrapper {
+.header-wrapper {
     position: sticky;
     background-color: white;
     width: 100%;
-    z-index: 1;
+    z-index: 2;
 }
 
-.nav-menu {
+.header-menu {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -323,6 +335,7 @@ nav {
     padding: 0.5em 1.5em 0em 1.5em;
     margin: 0em;
     max-width: 100%;
+    z-index: 1;
 }
 
 .paginator {
