@@ -137,14 +137,14 @@ a:visited {
 
 .color-link {
     text-decoration: none;
-    color: $teal;
+    color: black;
     font-family: $sans-serif;
     margin-right: 1.5em;
 }
 
-.color-link:visited {
-    color: $teal;
-}
+// .color-link:visited {
+//     color: $gray-medium;
+// }
 
 .color-link:hover {
     color: $teal-darker;
@@ -267,15 +267,22 @@ nav {
 
 
 .site-title {
-    margin: 0.5em 0em 1em 0em;
+    margin: 0.5em 0em 3em 0em;
     text-align: center;
     line-height: 1.7em;
+    transform: rotate(9deg);
+
+    // padding: 0.2em;
+    // background-color: lightgoldenrodyellow;
+    // border: 2px solid black;
 
     a {
-        font-family: $serif;
+        font-family: $sans-serif;
+        font-weight: 600;
         font-size: 1.5em;
         text-decoration: none;
         margin-top: 0.75em;
+        transform: rotate(-3);
     }
 }
 

@@ -3,7 +3,7 @@ baseURL = 'https://www.jatuzprzypadku.pl/'
 languageCode = 'pl'
 defaultContentLanguage = 'pl'
 
-title = 'Ja tu z przypadku'
+title = 'Ja tu z przypadku!'
 theme = "base"
 enableRobotsTXT = true
 
