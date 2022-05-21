@@ -35,5 +35,6 @@ disqusShortname = ""
 [params]
     description = "Tutaj trzeba dodać krótki opis bloga"
     twitter = "https://twitter.com/SMuminka"
+    instagram = "https://instagram.com/"
     showReadMore = true
 
