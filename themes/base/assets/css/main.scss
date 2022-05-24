@@ -301,7 +301,6 @@ nav {
 
 .header-wrapper {
     position: sticky;
-    background-color: white;
     width: 100%;
     z-index: 2;
 }
@@ -311,6 +310,14 @@ nav {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+.header-desktop {
+    visibility: hidden;
+    height: 0em;
+    padding: 0em;
+    margin: 0em;
+    overflow: hidden;
 }
 
 .nav-link {

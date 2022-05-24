@@ -1,11 +1,11 @@
-<header>
-<div class="header-wrapper">
+<header class="header-desktop">
+  <div class="header-wrapper">
     <div class="header-menu">
-        <a class="color-link nav-link" href="{{ "/" | relLangURL }}">Start</a>
-        {{ range .Site.Menus.main }}
-        <a class="color-link nav-link" href="{{ .URL }}">{{ .Name }}</a>
-        {{ end }}    
-        <!-- <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a> -->
-      </div>
-</div>
+      <a class="color-link nav-link" href="{{ "/" | relLangURL }}">Start</a>
+      {{ range .Site.Menus.main }}
+      <a class="color-link nav-link" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+      <!-- <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a> -->
+    </div>
+  </div>
 </header>

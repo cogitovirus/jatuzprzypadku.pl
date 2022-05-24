@@ -3,8 +3,9 @@
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
     {{ partial "head.html" . }}
     <body>
-        {{ partial "header.html" . }}
+        {{ partial "header-mobile.html" . }}
         {{ partial "nav.html" . }}
+        {{ partial "header.html" . }}
         <div id="content" class="content-container">
         {{ block "main" . }}
         {{ end }}

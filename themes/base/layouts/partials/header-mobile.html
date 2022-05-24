@@ -1,0 +1,10 @@
+<header class="header-mobile">
+    <div class="header-wrapper">
+        <div class="header-menu">
+            <a class="color-link nav-link" href="{{ "/" | relLangURL }}">Start</a>
+            {{ range .Site.Menus.main }}
+            <a class="color-link nav-link" href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+        </div>
+    </div>
+</header>

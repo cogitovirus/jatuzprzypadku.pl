@@ -38,9 +38,23 @@
         margin: 1em 0em 3em 0em;
     }
 
+    .header-desktop {
+        visibility: visible;
+        height: unset;
+        padding: unset;
+        margin: unset;
+        overflow: visible;
+    }
+
+    .header-mobile {
+        visibility: hidden;
+        height: 0em;
+        padding: 0em;
+        margin: 0em;
+        overflow: hidden;
+    }
+
     .header-wrapper {
-        position: fixed;
-        background-color: white;
         margin-left: 310px;
         max-width: 720px;
         width: 100%;
@@ -130,7 +144,7 @@
     .content-container {
         max-width: 720px;
         margin-left: 310px;
-        padding: 1.5em 1.5em 0 0;
+        padding: 0.5em 1.5em 0 0;
         height: 96%;
         display: flex;
         flex-direction: column;

@@ -4,8 +4,6 @@ title: "Naprawiaczka-pocieszycielka, a spełniona partnerka. Czy te role się wy
 date: 2022-05-24
 draft: false
 tags: [
-    "psychologia",
-    "dziecko",
     "relacje",
 ]
 ---
