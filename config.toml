@@ -17,7 +17,10 @@ googleAnalytics = ""
 # Add your Disqus shortname here.
 disqusShortname = ""
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Menu links along the sidebar navigation.
 [[menu.main]]
