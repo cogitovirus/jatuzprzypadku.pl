@@ -5,6 +5,11 @@ rm -rf public/
 hugo
 ```
 
+## remark24 comments
+```
+docker-compose pull && docker-compose up -d
+```
+
 ## debug
 ```
 hugo server --minify --disableFastRender --navigateToChanged  --templateMetrics --templateMetricsHints --verbose --verboseLog --buildDrafts --buildExpired --buildFuture --watch --enableGitInfo --forceSyncStatic --log true --logFile hugo.log --verbose

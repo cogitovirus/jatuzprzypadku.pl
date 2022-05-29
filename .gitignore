@@ -1,3 +1,5 @@
 public/
 resources/
 hugo.log
+# remark24 local db
+remark24/var
