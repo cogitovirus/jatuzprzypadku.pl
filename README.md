@@ -6,9 +6,15 @@ hugo
 ```
 
 ## remark24 comments
+https://www.devbitsandbytes.com/setting-up-remark42-from-scratch/
 ```
 docker-compose pull && docker-compose up -d
 ```
+
+# mail server
+https://github.com/docker-mailserver/docker-mailserver
+alternative:
+https://www.iredmail.org/
 
 ## debug
 ```
