@@ -6,7 +6,7 @@ services:
     image: umputun/remark42:latest
     container_name: "remark42"
     hostname: "remark42"
-    restart: always
+    # restart: always
 
     logging:
       driver: json-file
@@ -19,7 +19,7 @@ services:
      - "8080:8080"
 
     environment:
-      - REMARK_URL=http://localhost:1313/
+      - REMARK_URL=http://localhost:8080/
       - SITE=jatuzprzypadku.pl
       - SECRET=jatuzprzypadku.pl
       - AUTH_ANON=true

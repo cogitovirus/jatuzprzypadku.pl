@@ -1,20 +1,28 @@
 # jatuzprzypadku.pl
-## build
+## Dev server
+```
+hugo server
+```
+## Build
 ```
 rm -rf public/
 hugo
 ```
 
-## remark24 comments
+## remark24 comments - notes
 https://www.devbitsandbytes.com/setting-up-remark42-from-scratch/
 ```
 docker-compose pull && docker-compose up -d
 ```
 
-# mail server
+## mail server - notes
 https://github.com/docker-mailserver/docker-mailserver
 alternative:
 https://www.iredmail.org/
+
+https://www.getrevue.co/app/integrations/forms
+
+
 
 ## debug
 ```
