@@ -1,6 +1,7 @@
 ---
-type: section
 title: "O mnie"
+type: section
+layout: about
 ---
 
 Mam na imię Kamila i jestem tutaj z przypadku. Szacuję na oko, że jakieś 90% rzeczy, które nas w życiu spotykają jest dziełem przypadku. Gdyby się tak głębiej zastanowić można by nawet stwierdzić, że na niewiele rzeczy w życiu mamy właściwie wpływ. Wzięłam więc za fraki pozostałe 10% i piszę o rzeczach, które mnie nurtują, poruszają, wkurzają, ale przede wszystkim na które nie znalazłam jeszcze odpowiedzi. 

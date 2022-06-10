@@ -29,6 +29,7 @@ disqusShortname = ""
     url = "/about/"
     weight = 1 # used to sort menu items
 
+
 [taxonomies]
     tag = "tags"
 
