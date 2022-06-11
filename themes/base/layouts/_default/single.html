@@ -23,14 +23,14 @@
                     <polygon id="Path" points="13 4 13 5 1 5 1 4"></polygon>
                 </g>
             </svg>
-            {{ .Title }}
+            {{ .Title | truncate 25 }}
             </a>
             {{ end }}
         </div>
         <div class="next-post">
             {{ with .NextInSection }}
             <a class="color-link" href="{{ .Permalink }}">
-                {{ .Title }}
+                {{ .Title | truncate 25 }}
                 <svg width="13px" height="9px" viewBox="0 0 13 9" version="1.1" xmlns="https://www.w3.org/2000/svg"
                 xmlns:xlink="https://www.w3.org/1999/xlink">
                 <g class="color-arrow" fill="#63BDA2" fill-rule="nonzero">
