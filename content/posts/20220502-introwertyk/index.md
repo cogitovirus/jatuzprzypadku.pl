@@ -1,7 +1,7 @@
 ---
 author: "Kamila"
 title: "Introwertyk w świecie autopromocji"
-date: 2022-05-06
+date: 2032-05-06
 draft: false
 tags: [
     "psychologia",

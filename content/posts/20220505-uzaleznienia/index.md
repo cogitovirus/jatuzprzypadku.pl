@@ -1,7 +1,7 @@
 ---
 author: "Kamila"
 title: "Dlaczego ludzie popadają w uzależnienia"
-date: 2022-03-20
+date: 2032-03-20
 draft: false
 tags: [
     "psychologia",

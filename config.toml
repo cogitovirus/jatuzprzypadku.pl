@@ -37,7 +37,7 @@ disqusShortname = ""
     name = "klowkis"
 
 [params]
-    description = "Tutaj trzeba dodać krótki opis bloga"
+    description = "Blog o psychologi, postrzeganiu swiata, i o tym co się może przydarzyć"
     twitter = "https://twitter.com/SMuminka"
     instagram = "https://instagram.com/"
     showReadMore = true

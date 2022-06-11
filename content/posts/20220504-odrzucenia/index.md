@@ -1,7 +1,7 @@
 ---
 author: "Kamila"
 title: "Jak sobie poradzić z odrzuceniem?"
-date: 2022-03-10
+date: 2032-03-10
 draft: false
 tags: [
     "psychologia",
