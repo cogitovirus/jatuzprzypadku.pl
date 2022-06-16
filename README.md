@@ -3,10 +3,14 @@
 ```
 hugo server
 ```
-## build
+## build & deploy
 ```
 rm -rf public/
 hugo
+```
+to sync with bucket
+```
+gsutil rsync -r -d public/ gs://jatuzprzypadku.pl
 ```
 ## setup
 - front-end static site is served from a gcp bucket with a load balancer in front of it
