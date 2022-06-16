@@ -1,5 +1,6 @@
 public/
 resources/
 hugo.log
-# remark24 local db
-remark24/var
+# remark42
+remark42/var
+remark42/.env*

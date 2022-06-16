@@ -1,0 +1,42 @@
+version: "2"
+
+services:
+  remark:
+    build: .
+    image: umputun/remark42:latest
+    container_name: "remark42"
+    hostname: "remark42"
+    restart: always
+
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+    # uncomment to expose directly (no proxy)
+    ports:
+     - "80:8080"
+
+    environment:
+      - REMARK_URL=${REMARK_URL}
+      - SITE=jatuzprzypadku.pl
+      - SECRET=${SECRET}
+      - AUTH_ANON=true
+      - DEBUG=${DEBUG}
+      - AUTH_GOOGLE_CID=${AUTH_GOOGLE_CID}
+      - AUTH_GOOGLE_CSEC=${AUTH_GOOGLE_CSEC}
+      - ADMIN_PASSWD=${ADMIN_PASSWD}
+    volumes:
+      - ./var:/srv/var
+  proxy:
+    container_name: proxy
+    hostname: proxy
+    image: nginx
+    ports:
+      - 80:80
+      - 443:443
+
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - ./ssl:/etc/ssl/private
