@@ -1,7 +1,7 @@
 # jatuzprzypadku.pl
-Blog written with [Hugo](https://gohugo.io/), hosted on GCP. Base template was forked from [noteworthy](https://github.com/kimcc/hugo-theme-noteworthy)
+Blog written with [Hugo](https://gohugo.io/), hosted on GCP. Base template forked from [noteworthy](https://github.com/kimcc/hugo-theme-noteworthy)
 
-Frontend is a static site served from a Bucket with a load balancer in front of it.
+Frontend is a static site served from a GCP Bucket with a load balancer in front of it.
 
 Backend is a micro Compute Engine VM that serves [Remark42](https://remark42.com/) comments. Two docker containers. Remark42 and one reverse-proxy.
 
