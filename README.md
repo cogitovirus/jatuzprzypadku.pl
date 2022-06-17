@@ -1,5 +1,5 @@
 # jatuzprzypadku.pl
-Blog written with [Hugo](https://gohugo.io/), hosted on GCP. Base template forked from [noteworthy](https://github.com/kimcc/hugo-theme-noteworthy)
+Source code for https://jatuzprzypadku.pl . Blog written with [Hugo](https://gohugo.io/), hosted on GCP. Base template forked from [noteworthy](https://github.com/kimcc/hugo-theme-noteworthy)
 
 Frontend is a static site served from a GCP Bucket with a load balancer in front of it.
 
