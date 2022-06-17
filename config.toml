@@ -10,12 +10,7 @@ enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 20 # Configure how long the post summary should be on the homepage.
 
-
-# Add your Google Analytics identifier: UA-XXXXXXXX-X
-googleAnalytics = ""
-
-# Add your Disqus shortname here.
-disqusShortname = ""
+googleAnalytics = "G-7H6NGN49YD"
 
 [markup]
   [markup.goldmark]
@@ -29,7 +24,6 @@ disqusShortname = ""
     url = "/about/"
     weight = 1 # used to sort menu items
 
-
 [taxonomies]
     tag = "tags"
 
@@ -40,5 +34,6 @@ disqusShortname = ""
     description = "Blog o psychologi, postrzeganiu swiata, i o tym co się może przydarzyć"
     twitter = "https://twitter.com/jatuzprzypadku"
     instagram = "https://instagram.com/ja_tu_z_przypadku"
+    # TODO: setup handle for revue
     showReadMore = true
 
