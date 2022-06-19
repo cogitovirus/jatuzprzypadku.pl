@@ -27,11 +27,11 @@ gsutil rsync -r -d public/ gs://jatuzprzypadku.pl
 ## Helpful tips & tricks
 ssh to the backend server
 ```
-gcloud compute ssh --zone "europe-west1-b" "cvjp-backend"  --project "jatuzprzypadku"
+gcloud compute ssh --zone "us-east1-b" "cvjp-backend"  --project "jatuzprzypadku"
 ```
 scp files for setup
 ```
-gcloud compute scp --zone "europe-west1-b" --project "jatuzprzypadku" --recurse ./docker-compose.yml cvjp-backend:~/jatuzprzypadku.pl/docker-compose.yml
+gcloud compute scp --zone "us-east1-b" --project "jatuzprzypadku" --recurse ./docker-compose.yml cvjp-backend:~/jatuzprzypadku.pl/docker-compose.yml
 ```
 hugo debug
 ```
