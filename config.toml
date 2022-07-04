@@ -3,7 +3,7 @@ baseURL = 'https://jatuzprzypadku.pl/'
 languageCode = 'pl'
 defaultContentLanguage = 'pl'
 
-title = 'Ja tu z przypadku!'
+title = 'Ja tu z przypadku'
 theme = "base"
 enableRobotsTXT = true
 
@@ -31,7 +31,7 @@ googleAnalytics = "G-7H6NGN49YD"
     name = "klowkis"
 
 [params]
-    description = "Blog o psychologii, postrzeganiu swiata, i o tym co się może w życiu przydarzyć"
+    description = "Blog o psychologii, postrzeganiu świata, i o tym co się może w życiu przydarzyć"
     twitter = "https://twitter.com/jatuzprzypadku"
     instagram = "https://instagram.com/ja_tu_z_przypadku"
     # TODO: setup handle for revue
