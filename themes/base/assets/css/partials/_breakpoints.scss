@@ -164,6 +164,17 @@
         margin-top: 0.75em;
     }
 
+    // ABOUT
+.about {
+    flex-wrap: nowrap;
+    div {
+        margin-right: 2em;
+    }
+    img {
+        max-width: 50%;
+    }
+}
+
     // FOOTER
     .page-footer {
         border-bottom: none;

@@ -4,10 +4,13 @@
     {{ if .Date }}
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{ end }}
-    <div class="post-content">
-        <p>
-        {{ .Content }}
-        </p>
+    <div class="post-content about">
+        <div>
+            <p>
+                {{ .Content }}
+            </p>
+        </div>
+        <img src="{{ "about.jpeg" | relURL }}" />
     </div>
     <div class="page-footer">
         {{if .Params.tags}}

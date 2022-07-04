@@ -530,6 +530,18 @@ a.footnote-ref {
     color: $gray-light;
 }
 
+// ABOUT PAGE
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    img {
+        max-width: 100%;
+        height: auto;
+        border: 1px solid black;
+        background-color: black;
+    }
+}
+
 // 404 PAGE
 .not-found-title {
     margin-bottom: 0em;
