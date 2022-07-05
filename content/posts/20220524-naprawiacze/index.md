@@ -36,4 +36,5 @@ I ja wiem…, mam w sobie tę wiarę, że potraficie naprawić wszystko, że nie
 Podsumowując i odpowiadając na pytanie z tematu – nie, nie wykluczają się. Pod warunkiem, że jesteś zahartowanym w boju Naprawiaczem. “Spełnienie”, które odczuwasz w relacji jest dla Ciebie bardzo toksyczne – ba, cała relacja jest toksyczna, a Ty przecież zasługujesz na “kogoś więcej” 😊
 
 Ściskam,
+
 Kama 
