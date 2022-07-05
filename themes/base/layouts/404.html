@@ -1,7 +1,7 @@
-{{ define "title" }}404 page not found - {{ .Site.Title }}{{ end }}
+{{ define "title" }}404 nie znaleziono - {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
-    <h1 class="not-found-title">404: Not found</h1>
-    <h2>Sorry, we couldn't find the page you're looking for.</h2>
-    <a href="{{ "/" | relLangURL }}">Go back home</a>
+    <h1 class="not-found-title">404: Nie znaleziono</h1>
+    <h2>Strona której szukasz nie istnieje. Ty tu z przypadku?</h2>
+    <a href="{{ "/" | relLangURL }}">Powrót do strony głównej</a>
 {{ end }}
