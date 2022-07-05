@@ -1,6 +1,7 @@
 ---
 author: "Kama"
-title: O tym jak z ofiary zrobić osobę współwinną  – niebezpieczny trend “nowoczesności”
+title: O tym jak z ofiary zrobić osobę współwinną  – niebezpieczny trend "nowoczesności"
+description: "Ofiarę zdrady w związku nie należy traktować jako osoby współwinnej"
 date: 2022-07-04
 draft: false
 tags: [

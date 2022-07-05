@@ -1,6 +1,7 @@
 ---
 author: "Kama"
 title: "Naprawiaczka-pocieszycielka, a spełniona partnerka. Czy te role się wykluczają?"
+description: "Reflekcje na temat odpowiedzialności za naprawianie problemów w związku"
 date: 2022-05-24
 draft: false
 tags: [
