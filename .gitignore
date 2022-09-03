@@ -4,3 +4,6 @@ hugo.log
 # remark42
 remark42/var
 remark42/.env*
+# firebase
+.firebaserc
+.firebase
