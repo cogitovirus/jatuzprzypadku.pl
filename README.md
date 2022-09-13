@@ -19,9 +19,9 @@ First generate the static site
 ```
 ./build.sh
 ```
-Then sync it with your bucket
+Then deploy it with firebase
 ```
-gsutil rsync -r -d public/ gs://jatuzprzypadku.pl
+TODO: https://firebase.google.com/docs/hosting/test-preview-deploy?authuser=0
 ```
 
 ## Helpful tips & tricks
