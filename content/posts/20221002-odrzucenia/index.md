@@ -4,8 +4,7 @@ title: "Jak poradzić sobie z odrzuceniem - przepis instant na powrót do równo
 date: 2022-10-02
 draft: false
 tags: [
-    "psychologia",
-    "relacje",
+    "relacje"
 ]
 ---
 

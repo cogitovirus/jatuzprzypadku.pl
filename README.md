@@ -15,13 +15,9 @@ with remark42:
 docker-compose pull && docker-compose --env-file .envlocal up -d
 ```
 ## Deploy
-First generate the static site
+There's a deploy script that will generate the static site files and deploy the site with firebase
 ```
-./build.sh
-```
-Then deploy it with firebase
-```
-TODO: https://firebase.google.com/docs/hosting/test-preview-deploy?authuser=0
+./deply.sh
 ```
 
 ## Helpful tips & tricks
@@ -40,7 +36,7 @@ hugo server --minify --disableFastRender --navigateToChanged  --templateMetrics 
 
 ## Backend setup
 
-1. copy docker-compose, envfile, nginx config 
+1. copy docker-compose, envfile, nginx config
 
 >> Note: chosing container optimized VM turned out to be a shot in the foot. Ironically they don't come with docker-compose, so compose commands are run from docker as well.
 2. Run docker compose
@@ -54,9 +50,11 @@ docker run -it --rm --name certbot \
     -v "/etc/letsencrypt:/etc/letsencrypt" \
     -p 80:80 -p 443:443 \
     -v "/var/lib/letsencrypt:/var/lib/letsencrypt" \
-    certbot/certbot certonly --agree-tos --email w.zolnierowicz@gmail.com --standalone --non-interactive -d remark42.jatuzprzypadku.pl 
+    certbot/certbot certonly --agree-tos --email w.zolnierowicz@gmail.com --standalone --non-interactive -d remark42.jatuzprzypadku.pl
 ```
-TODO: set up auto renewal script: https://stackoverflow.com/q/66638368/4275995
+TODO: fix auto renew script
+It is available on the VM as cert_renew.sh
+This certificate expires on 2022-12-31.
 
 
 
