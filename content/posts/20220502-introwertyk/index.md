@@ -2,7 +2,7 @@
 author: "Kamila"
 title: "Introwertyk w świecie autopromocji"
 date: 2032-05-06
-draft: false
+draft: true
 tags: [
     "psychologia",
     "introwertyk",

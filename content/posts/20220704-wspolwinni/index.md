@@ -18,11 +18,11 @@ Ale wróćmy do meritum sprawy, czyli do ropiejącej rany, z którą ciężko so
 
 I wiecie co? Może to niegrzeczne z mojej strony, ale gdy słyszne podobne bzdury, na mojej twarzy pojawia się iroczniczny uśmiech, a w wyobraźni wyświetla zdanie *“swoje za uszami to Ty masz, co?”*. Nie mogę oprzeć się wrażeniu, że to szkodliwe społecznie twierdzenie wyprodukowane zostało na przestrzeni lat przez tych, którzy dopuszczają się owych czynów, ale nie mają gotowości czy ochoty na branie za siebie pełni odpowiedzialności. Nie ma żadnych racjonalnych przesłanek, aby uczynić z ofiary osobę współwinną doznawanej przez nią krzywdy. Rozszerzmy na chwilę perspektywę, aby lepiej dostrzec absurd całego zjawiska.
 
-* Pracownik odchodzi z firmy – współwinny jest cały jego zespół, bo przecież gdyby dobrze się czuł w ramach grupy to nigdy by nie odszedł! 
-* Młody meżczyzna popełnia samobójstwo – współwinne jest całe środowisko rodzinne, ponieważ gdyby w rodzinie działo się dobrze to nigdy by się nie zabił! 
+* Pracownik odchodzi z firmy – współwinny jest cały jego zespół, bo przecież gdyby dobrze się czuł w ramach grupy to nigdy by nie odszedł!
+* Młody meżczyzna popełnia samobójstwo – współwinne jest całe środowisko rodzinne, ponieważ gdyby w rodzinie działo się dobrze to nigdy by się nie zabił!
 * Starsza pani rezygnuje z udziału w środowisku kościelnym – współwinna jest wspólnota kościoła, ponieważ najwyraźniej działo się w niej coś, co uniemożliwiło jej dalsze uczestnictwo w tej grupie!
 
-Korzystając z nawiązania do tematów kościelnych – każdy człowiek ma wolną wolę i wiąże się to zarówno z nieograniczoną wolnością (przynajmniej w teorii), jak i z odpowiedzialnością za te wybory. Chciałabym podkreślić, że zdrada służy mi jedynie jako przykład - zjawisko dotyczy wszystkich przewinień, za które osoba je popełniająca chętnie podzieliłaby się odpowiedzialnością i usprawiedliwiła tym samym swoje zachowanie. 
+Korzystając z nawiązania do tematów kościelnych – każdy człowiek ma wolną wolę i wiąże się to zarówno z nieograniczoną wolnością (przynajmniej w teorii), jak i z odpowiedzialnością za te wybory. Chciałabym podkreślić, że zdrada służy mi jedynie jako przykład - zjawisko dotyczy wszystkich przewinień, za które osoba je popełniająca chętnie podzieliłaby się odpowiedzialnością i usprawiedliwiła tym samym swoje zachowanie.
 >*“Gdybyś tak często się ze mną nie kłócił to nigdy bym Cię nie zdradziła!”*
 
 Innymi słowy:

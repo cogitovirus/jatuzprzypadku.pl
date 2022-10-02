@@ -2,7 +2,7 @@
 author: "Kamila"
 title: "Czy dziecko można zamodelować?"
 date: 2032-04-15
-draft: false
+draft: true
 tags: [
     "psychologia",
     "dziecko",

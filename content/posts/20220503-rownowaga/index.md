@@ -2,7 +2,7 @@
 author: "Kamila"
 title: "Równowaga w życiu"
 date: 2032-05-07
-draft: false
+draft: true
 tags: [
     "psychologia"
 ]
