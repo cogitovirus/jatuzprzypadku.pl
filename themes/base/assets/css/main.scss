@@ -13,6 +13,7 @@ $highlight: #FFEC5C;
 $red: #b20000;
 
 // FONTS
+$title: "Gloria Hallelujah", "Noto Serif", "Helvetica Neue", Helvetica, Roboto, FreeSans, serif;
 $serif: "Noto Serif", "Segoe UI", "Helvetica Neue", Helvetica, Roboto, FreeSans, serif;
 $sans-serif: "Noto Sans", "Segoe UI", "Helvetica Neue", Helvetica, Roboto, FreeSans, sans-serif;
 $code: Menlo, Monaco, "Courier New", monospace;
@@ -275,9 +276,9 @@ nav {
     line-height: 1.7em;
 
     a {
-        font-family: $sans-serif;
+        font-family: $title;
         font-weight: 600;
-        font-size: 1.5em;
+        font-size: 1.7em;
         text-decoration: none;
         margin-top: 0.75em;
     }
