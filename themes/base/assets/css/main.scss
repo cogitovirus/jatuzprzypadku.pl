@@ -322,6 +322,7 @@ nav {
 
 .nav-link {
     margin: 0.5em 1em 0em 1.5em;
+    font-family: $title;
     font-size: 1.3em;
     &:hover {
         color: $red;
@@ -544,6 +545,10 @@ a.footnote-ref {
 }
 
 // SUBSCRIBE PAGE
+
+.subscribe {
+    font-size: 1.2em;
+}
 
 label {
     float: left;
