@@ -3,7 +3,7 @@ author: "Kamila"
 title: "Jak poradzić sobie z odrzuceniem - przepis instant na powrót do równowagi"
 date: 2022-10-02
 draft: false
-keywords: [ "relacje", "odrzucenie", "psychologia" ]
+keywords: [ "relacje", "odrzucenie", "psychologia", "jak poradzić sobie z odrzuceniem", "co zrobić po rozstaniu" ]
 tags: [ "relacje" ]
 ---
 

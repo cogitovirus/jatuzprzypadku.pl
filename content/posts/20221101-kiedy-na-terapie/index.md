@@ -3,7 +3,7 @@ author: "Kamila"
 title: "Jak rozpoznać moment, w którym należy rozpocząć terapię?"
 date: 2022-11-01
 draft: false
-keywords: [ "terapia", "trzecie oko", "psychoterapia", "samopomoc" ]
+keywords: [ "terapia", "kiedy iść na terapie", "Jak rozpoznać moment w którym należy rozpocząć terapię", "psychoterapia" ]
 tags: [ "terapia" ]
 ---
 

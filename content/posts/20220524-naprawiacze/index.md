@@ -3,7 +3,7 @@ author: "Kama"
 title: "Naprawiaczka-pocieszycielka, a spełniona partnerka. Czy te role się wykluczają?"
 date: 2022-05-24
 draft: false
-keywords: [ "relacje", "naprawiacze", "pocieszycielki", "związki"]
+keywords: [ "relacje", "naprawiacze", "pocieszycielki", "związki", "jak naprawić swój związek", "role w związku"]
 tags: [ "relacje" ]
 ---
 

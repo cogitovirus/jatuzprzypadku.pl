@@ -3,7 +3,7 @@ author: "Kama"
 title: O tym jak z ofiary zrobić osobę współwinną  – niebezpieczny trend "nowoczesności"
 date: 2022-07-04
 draft: false
-keywords: [ "relacje", "zdrada", "współwinny", "krzywda" ]
+keywords: [ "relacje", "zdrada", "dlaczego dziewczyna mnie zdradziła", "dlaczego chłopak mnie zdradził" ]
 tags: [ "relacje" ]
 ---
 
