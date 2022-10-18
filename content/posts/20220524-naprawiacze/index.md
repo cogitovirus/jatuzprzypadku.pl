@@ -1,12 +1,10 @@
 ---
 author: "Kama"
 title: "Naprawiaczka-pocieszycielka, a spełniona partnerka. Czy te role się wykluczają?"
-description: "Reflekcje na temat odpowiedzialności za naprawianie problemów w związku"
 date: 2022-05-24
 draft: false
-tags: [
-    "relacje",
-]
+keywords: [ "relacje", "naprawiacze", "pocieszycielki", "związki"]
+tags: [ "relacje" ]
 ---
 
 Niniejszy tekst dedykuję kobietom, które w swoich relacjach wchodzą w role naprawiaczek-pocieszycielek, a także samej sobie sprzed lat. Na początku tego wywodu chciałabym jednakowoż podkreślić, że wytrwałych rycerzy ratujących zagubione księżniczki też nie brakuje. Od zawsze jestem za równouprawnieniem i według mojego uznania macie prawo wpisywać się w schematy, które z reguły przypisuje się kobietom. Także Panowie – Was też to dotyczy, bądźcie czujni!
@@ -25,7 +23,7 @@ Absolutnie nie chcę przypisywać takim nieszczęśnikom etykiety Wykorzystywacz
 
 Tkwicie w swoich schematach od lat, być może zostaliście “włożeni” w te schematy we wczesnym dzieciństwie, zamodelowani w taki sposób w rodzinach pochodzenia? Być może nauczyliście się tego już później, w procesie socjalizacji z nabliższym otoczeniem? Tak czy siak przepracowanie schematów i zaadaptowanie nowych zajmuje naprawdę dużo czasu. To tak jakby wybudować dom i po latach mieszkania w nim zarządzić przebudowę fundamentów – trochę katorżnicze prawda? Taką właśnie robotę muszą wykonać osoby ze “schematem Naprawiacza”. Ale jak się tego podejmą to chapeau bas! Mam nadzieję, że wyjdzie z tego willa z basenem! 😊
 
-Drodzy Naprawiacze – apeluję, nie próbujcie zmieniać nikogo na siłę, Wasi bliscy tego nie chcą lub najzwyczajniej w świecie nie są na to gotowi. Możecie natomiast zadać jedno słuszne pytanie - co zrobić w obliczu takiego problemu dla samego siebie? Aby troche ułatwić zadanie wyrwania się ze schematu naprawiacza (gdyby powyższe argumenty nie wystarczyły) podsuwam pewną praktyczną wskazówkę. 
+Drodzy Naprawiacze – apeluję, nie próbujcie zmieniać nikogo na siłę, Wasi bliscy tego nie chcą lub najzwyczajniej w świecie nie są na to gotowi. Możecie natomiast zadać jedno słuszne pytanie - co zrobić w obliczu takiego problemu dla samego siebie? Aby troche ułatwić zadanie wyrwania się ze schematu naprawiacza (gdyby powyższe argumenty nie wystarczyły) podsuwam pewną praktyczną wskazówkę.
 
 *Postarajcie się spojrzeć na partnera jak na “gotowy produkt” i zadajcie sami sobie pytanie – czy to co TERAZ widzę, TERAZ czuję, TERAZ dostaję od drugiej osoby jest dla mnie satysfakcjonujące? Czy tego właśnie dla siebie chcę? TU i TERAZ.*
 
@@ -38,4 +36,4 @@ Podsumowując i odpowiadając na pytanie z tematu – nie, nie wykluczają się.
 
 Ściskam,
 
-Kama 
+Kama

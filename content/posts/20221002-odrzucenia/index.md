@@ -3,9 +3,8 @@ author: "Kamila"
 title: "Jak poradzić sobie z odrzuceniem - przepis instant na powrót do równowagi"
 date: 2022-10-02
 draft: false
-tags: [
-    "relacje"
-]
+keywords: [ "relacje", "odrzucenie", "psychologia" ]
+tags: [ "relacje" ]
 ---
 
 Każdy z nas pewnie choć raz w życiu stanął twarzą w twarz z potworem o obliczu odrzucenia i przeżył to stracie na swój unikalny sposób, korzystając z dostępnych mu strategii “radzenia sobie” z tą paskudą. Dla rzutkiego programisty najprostszym sposobem była ucieczka w nałogi, młody finansista skupił całą swoją energię na pracy, Pani z warzywniaka natychmiast wskoczyła w nową relację romantyczną, a filigranowa blondynka z bloku obok przygarnęła kompulsywnie kolejnego bezpańskiego kota.

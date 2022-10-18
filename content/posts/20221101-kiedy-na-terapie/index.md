@@ -3,9 +3,8 @@ author: "Kamila"
 title: "Jak rozpoznać moment, w którym należy rozpocząć terapię?"
 date: 2022-11-01
 draft: false
-tags: [
-    "terapia"
-]
+keywords: [ "terapia", "trzecie oko", "psychoterapia", "samopomoc" ]
+tags: [ "terapia" ]
 ---
 
 Pewnie moja odpowiedź nikogo nie zaskoczy, bo w swojej istocie jest banalna i raczej intuicyjna. Nie ma żadnych konkretnych wytycznych co do tego, kiedy należy (dla własnego dobrostanu psychicznego) skorzystać z usług psychologa czy psychoterapeuty. Sprawę należy rozważać indywidualnie i dokładnie ją przemyśleć, ponieważ każda terapia wiąże się z dużym nakładem (często bardzo ciężkiej) pracy nad samym sobą. Żadna terapia nie jest wykładem, terapia przypomina raczej laborki. Dużo wkładu własnego, proces prób i błędów, błądzenie w stawianiu tez, czasem zaskakujące wyniki eksperymentów i niezbadane efekty końcowe - kto przeżył laborki ten wie, że nie jest to lekki kawałek chleba. I gdyby nie polepszenie jakości życia, zrzucenie z siebie ciężaru codziennych zmartwień, poszerzenie  świadomości o sobie samym i wyuczenie nowych metod postępowania, które przełożą się na Wasze dalsze życie to wielu z Was powyższy fragment mógłby skutecznie zniechęcić do jej rozpoczęcia.
