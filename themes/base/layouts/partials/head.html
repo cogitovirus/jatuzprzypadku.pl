@@ -7,6 +7,12 @@
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.Description }}{{ else }}{{ .Params.Title }} | {{ .Site.Title }}{{ end }}"/>
     <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . ", "}}{{ end }}" />
+    {{ with .Resources.GetMatch "promo.jpeg" }}
+    <meta property="og:image" content="{{ .Permalink }}"/>
+    {{ end }}
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}"/>
+    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.Description }}{{ else }}{{ .Params.Title }} | {{ .Site.Title }}{{ end }}"/>
+
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
