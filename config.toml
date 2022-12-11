@@ -32,8 +32,13 @@ googleAnalytics = "G-7H6NGN49YD"
 
 [params]
     description = "Blog o psychologii, postrzeganiu świata, a także o tym co się może w życiu przydarzyć"
+
+    # social
     twitter = "https://twitter.com/jatuzprzypadku"
     instagram = "https://instagram.com/ja_tu_z_przypadku"
+    email= "jatuzprzypadku@gmail.com"
+
+
     # TODO: setup handle for revue
     showReadMore = true
 
