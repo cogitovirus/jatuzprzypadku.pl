@@ -6,6 +6,14 @@
     {{ end }}
     <p class="reading-time">Czas lektury: {{ .ReadingTime }} min.</p>
     <div class="post-content">
+        <figure>
+            {{ with .Resources.GetMatch "promo.jpeg" }}
+            <img src="{{ .RelPermalink }}">
+            {{ end }}
+            {{ if .Params.unsplashLink}}
+            <figcaption>Autor zdjęcia: <a href="{{ .Params.unsplashLink}}">{{ .Params.unsplashAuthor}}</a></figcaption>
+            {{ end }}
+        </figure>
         <p>
         {{ .Content }}
         </p>
@@ -55,7 +63,7 @@
             const kofiId = '{{ .Site.Params.Kofi }}';
             kofiwidget2.init('Support Me on Ko-fi', '#29abe0', kofiId);
             kofiwidget2.draw();
-        </script> 
+        </script>
 
     {{ end }}
 

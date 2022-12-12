@@ -5,6 +5,9 @@ date: 2022-10-02
 draft: false
 keywords: [ "relacje", "odrzucenie", "psychologia", "jak poradzić sobie z odrzuceniem", "co zrobić po rozstaniu" ]
 tags: [ "relacje" ]
+
+unsplashLink: "https://unsplash.com/photos/IqSaG9zv2e0"
+unsplashAuthor: "K. Mitch Hodge"
 ---
 
 Każdy z nas pewnie choć raz w życiu stanął twarzą w twarz z potworem o obliczu odrzucenia i przeżył to stracie na swój unikalny sposób, korzystając z dostępnych mu strategii “radzenia sobie” z tą paskudą. Dla rzutkiego programisty najprostszym sposobem była ucieczka w nałogi, młody finansista skupił całą swoją energię na pracy, Pani z warzywniaka natychmiast wskoczyła w nową relację romantyczną, a filigranowa blondynka z bloku obok przygarnęła kompulsywnie kolejnego bezpańskiego kota.

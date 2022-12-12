@@ -165,6 +165,14 @@
         margin-top: 0.75em;
     }
 
+    .post-content {
+        figure {
+            max-width: 50%;
+            margin-top: 2em;
+            margin-left: 1em;
+        }
+    }
+
     // ABOUT
 .about {
     flex-wrap: nowrap;

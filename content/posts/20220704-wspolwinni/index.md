@@ -5,6 +5,9 @@ date: 2022-07-04
 draft: false
 keywords: [ "relacje", "zdrada", "dlaczego dziewczyna mnie zdradziła", "dlaczego chłopak mnie zdradził" ]
 tags: [ "relacje" ]
+
+unsplashLink: "https://unsplash.com/photos/K4mSJ7kc0As"
+unsplashAuthor: "charlesdeluvio"
 ---
 
 Po raz pierwszy ze stwierdzeniem *“skoro zdradził to czegoś mu brakowało, a to już wina obu stron”* spotkałam się podczas wywiadu ze znaną polską wokalistką. Ponieważ miał on miejsce lata temu, a ja byłam wtedy jeszcze młodą szprotką, nie objęłam tego głębszą refleksją, ale jednak “coś mi to zrobiło”. Poczucie niesprawiedliwości, które wtedy poczułam (ale nie byłam w stanie jeszcze nazwać) obudziło się we mnie ponownie wiele lat później. Tym razem niestety przybrało poziom niemalże przerażenia, ponieważ nastawienie takie reprezentują coraz częściej środowiska tzw. zdrowia psychicznego.

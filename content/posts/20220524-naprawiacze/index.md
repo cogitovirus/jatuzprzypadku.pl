@@ -5,6 +5,9 @@ date: 2022-05-24
 draft: false
 keywords: [ "relacje", "naprawiacze", "pocieszycielki", "związki", "jak naprawić swój związek", "role w związku"]
 tags: [ "relacje" ]
+
+unsplashLink: "https://unsplash.com/photos/mQHEgroKw2k"
+unsplashAuthor: "Shane Aldendorff"
 ---
 
 Niniejszy tekst dedykuję kobietom, które w swoich relacjach wchodzą w role naprawiaczek-pocieszycielek, a także samej sobie sprzed lat. Na początku tego wywodu chciałabym jednakowoż podkreślić, że wytrwałych rycerzy ratujących zagubione księżniczki też nie brakuje. Od zawsze jestem za równouprawnieniem i według mojego uznania macie prawo wpisywać się w schematy, które z reguły przypisuje się kobietom. Także Panowie – Was też to dotyczy, bądźcie czujni!
