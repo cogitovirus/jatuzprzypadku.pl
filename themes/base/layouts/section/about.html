@@ -10,7 +10,11 @@
                 {{ .Content }}
             </p>
         </div>
-        <img src="{{ "about.jpeg" | relURL }}" />
+        <figure>
+            <img src="{{ "about.jpeg" | relURL }}" />
+            <figcaption>Autor zdjęcia: Zaya</figcaption>
+
+        </figure>
     </div>
     <div class="page-footer">
         {{if .Params.tags}}

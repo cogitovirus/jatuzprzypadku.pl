@@ -169,11 +169,14 @@
 .about {
     flex-wrap: nowrap;
     div {
+        max-width: 60%;
         margin-right: 2em;
     }
-    img {
-        max-width: 40%;
+    figure {
+        margin-top: 1.5em;
+
     }
+
 }
 
     // FOOTER
