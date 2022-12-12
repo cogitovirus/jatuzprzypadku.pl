@@ -122,6 +122,14 @@ p {
     margin: 0em 0 1em 0;
 }
 
+// IMAGES
+
+figcaption {
+    font-size: 0.8rem;
+    text-align: right;
+    color: $gray-light;
+}
+
 // LINKS AND TAGS
 a {
     text-decoration: underline;
@@ -536,6 +544,13 @@ a.footnote-ref {
 .about {
     display: flex;
     flex-wrap: wrap;
+
+    margin-bottom: 2rem;
+    p {
+        text-align: justify;
+        margin-bottom: 1.5rem;
+    }
+
     figure {
         margin: 0;
 
@@ -544,12 +559,6 @@ a.footnote-ref {
             height: auto;
             border: 1px solid black;
             background-color: black;
-        }
-
-        figcaption {
-            font-size: 0.8rem;
-            text-align: right;
-            color: $gray-light;
         }
     }
 
