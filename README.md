@@ -46,15 +46,21 @@ docker run --rm -v "$PWD:$PWD" -v /var/run/docker.sock:/var/run/docker.sock -w="
 ----------
 Note: getting ssl cert, with docker certbot
 ```
+docker stop proxy
 docker run -it --rm --name certbot \
     -v "/etc/letsencrypt:/etc/letsencrypt" \
     -p 80:80 -p 443:443 \
     -v "/var/lib/letsencrypt:/var/lib/letsencrypt" \
     certbot/certbot certonly --agree-tos --email w.zolnierowicz@gmail.com --standalone --non-interactive -d remark42.jatuzprzypadku.pl
+
+sudo chmod -R 755 /etc/letsencrypt/live/
+sudo cp -L /etc/letsencrypt/live/remark42.jatuzprzypadku.pl/*.pem ./jatuzprzypadku.pl/ssl/
+
+docker start proxy
 ```
 TODO: fix auto renew script
 It is available on the VM as cert_renew.sh
-This certificate expires on 2022-12-31.
+This certificate expires on 2023-03-18.
 
 
 

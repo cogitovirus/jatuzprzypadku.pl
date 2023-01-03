@@ -357,6 +357,16 @@ nav {
     margin-top: -0.75em;
 }
 
+// SHARE
+.share {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    a {
+        margin-right: 1em;
+    }
+}
+
 // CONTENT
 .content-container {
     padding: 0.5em 1.5em 0em 1.5em;

@@ -5,6 +5,7 @@
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{ end }}
     <p class="reading-time">Czas lektury: {{ .ReadingTime }} min.</p>
+    {{ partial "share.html" . }}
     <div class="post-content">
         <figure>
             {{ with .Resources.GetMatch "promo.jpeg" }}
