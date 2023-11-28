@@ -1,7 +1,7 @@
 ---
 author: "Kamila"
 title: "Czerwone lampki podczas pracy z terapeutą"
-date: 2023-06-19
+date: 2023-11-28
 draft: false
 keywords: [ "terapia", "Czerwone lampki podczas pracy z terapeutą", "praca z terapeutą", "psychoterapia" ]
 tags: [ "terapia" ]
